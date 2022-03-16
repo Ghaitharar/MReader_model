@@ -1,1 +1,2 @@
 # MReader_model
+In this project, I investigated how re-attention and bi-attention mechanisms focus on relevant information in Neural Machine Comprehension Question Answering models. I implemented a Mnemonic Reader using PyTorch which uses re-attention alignment architecture and compared multiple aspects with a BiDAF baseline network that uses bi-attention alignment. I incrementally added features to context and question embeddings to investigate their effects on the performance of the model. 
